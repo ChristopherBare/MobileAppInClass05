@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InClassAssignment05</string>
+    <string name="button_go">GO</string>
+    <string name="spinner_title">Choose a Keyword</string>
+    <string name="spinner_default">Search Keyword</string>
+
+    <string-array name="keyword_array">
+        <item>Android</item>
+        <item>Aurora</item>
+        <item>UNCC</item>
+        <item>Winter</item>
+        <item>Wonders</item>
+    </string-array>
+
+</resources>
